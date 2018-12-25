@@ -1,0 +1,2 @@
+Hello hiwatt
+This is staroot test project
